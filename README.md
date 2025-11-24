@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi, I'm Zafer
 
-<!--
-**zafergnes/zafergnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer • System Designer • Problem Solver**
 
-Here are some ideas to get you started:
+My work is straightforward:
+I find the problem. I spot the flaw. I identify what wastes time.
+Then I code, fix, optimize, and automate.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I break complex issues into pieces, trace the root cause,  
+and build long-term, scalable, and clean solutions.
+
+Anything slow, fragile, or manual gets permanently fixed.  
+I simplify systems, speed them up, and make them run on their own.
+
+Currently building: **AI-driven automation systems and Emektra, a workforce management platform.**
