@@ -24,15 +24,15 @@ I’m particularly interested in software that removes repetitive work, simplifi
 
 PROBLEM
    │
-   ├── Understand the real requirement
+   ├── Understand the real requirement<br/>
    │
-   ├── Design the system
+   ├── Design the system<br/>
    │
-   ├── Build the product
+   ├── Build the product<br/>
    │
-   ├── Automate what can be automated
+   ├── Automate what can be automated<br/>
    │
-   └── Ship → Measure → Improve
+   └── Ship → Measure → Improve<br/>
 
 02 — WHAT I BUILD
 
@@ -172,23 +172,6 @@ LLM Integrations · AI-Assisted Development · Workflow Automation
 <td><b>Ship real software.</b><br>A solution has value when it survives production and solves the problem it was built for.</td>
 </tr>
 </table>
-
-06 — GITHUB
-
-<div align="center">
-
-<a href="https://github.com/zafergunes">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zafergunes&show_icons=true&hide_border=true&bg_color=00000000&title_color=22E6CF&icon_color=22E6CF&text_color=C9D6E4&rank_icon=github" />
-</a>
-
-<a href="https://github.com/zafergunes">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafergunes&layout=compact&hide_border=true&bg_color=00000000&title_color=22E6CF&text_color=C9D6E4" />
-</a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=zafergunes&theme=transparent&hide_border=true&ring=22E6CF&fire=22E6CF&currStreakLabel=22E6CF&sideLabels=C9D6E4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" />
-
 </div>
 
 07 — LET'S CONNECT
