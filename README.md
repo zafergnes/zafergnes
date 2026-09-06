@@ -1,99 +1,214 @@
-# Hi, I'm Zafer Güneş
+<div align="center">
 
-### Full-Stack Developer · System Designer · Product Builder
+<img src="zafer-gunes-banner.png" alt="Zafer Güneş — Full-Stack Developer, System Designer, Product Builder" width="100%">
 
-I build software products from the ground up — from system architecture and backend services to frontend applications, infrastructure, automation, and deployment.
+<br/>
 
-My focus is on solving real-world problems with software that is reliable, maintainable, scalable, and practical.
+<a href="https://zafergunes.com.tr"><img src="https://img.shields.io/badge/zafergunes.com.tr-07111F?style=for-the-badge&logo=googlechrome&logoColor=22E6CF&labelColor=07111F"></a>
+<a href="https://www.linkedin.com/in/zafer-güneş"><img src="https://img.shields.io/badge/LinkedIn-07111F?style=for-the-badge&logo=linkedin&logoColor=22E6CF&labelColor=07111F"></a>
+<a href="mailto:zaferguness82@gmail.com"><img src="https://img.shields.io/badge/Email-07111F?style=for-the-badge&logo=gmail&logoColor=22E6CF&labelColor=07111F"></a>
 
-I enjoy working across the full stack, designing systems, automating repetitive processes, and turning complex requirements into simple, usable products.
+<br/><br/>
 
----
+Building software products, systems and automation that solve real problems.
 
-## About Me
+</div>
 
-I'm a Full-Stack Developer focused on building complete products rather than isolated features.
+01 — PROFILE
 
-My work typically involves:
+I’m a Full-Stack Developer, System Designer and Product Builder focused on turning real operational problems into complete software products.
 
-- Full-stack web and mobile application development
-- Backend architecture and API design
-- Database architecture and data modeling
-- System design and scalable infrastructure
-- AI-powered applications and automation
-- DevOps, deployment, and production environments
-- Product development from idea to release
+I work across the stack — from architecture and data modeling to frontend, backend, infrastructure, automation and deployment.
 
-I care about clean architecture, performance, maintainability, and building software that creates measurable value.
+I’m particularly interested in software that removes repetitive work, simplifies complex workflows and remains maintainable as the product grows.
 
----
+PROBLEM
+   │
+   ├── Understand the real requirement
+   │
+   ├── Design the system
+   │
+   ├── Build the product
+   │
+   ├── Automate what can be automated
+   │
+   └── Ship → Measure → Improve
 
-## Currently Building
+02 — WHAT I BUILD
 
-### Emektra
+<table>
+<tr>
+<td width="33%" valign="top">
 
-A workforce management platform designed for businesses working with seasonal, daily, and distributed workers.
+◈ Product Engineering
 
-Emektra focuses on simplifying operational processes such as:
+Complete products from idea to production.
 
-- Workforce management
-- Attendance tracking
-- Worker payments
-- Operational workflows
+Web · Mobile · Desktop · SaaS
 
-Built as a multi-platform product with modern web, mobile, and desktop technologies.
+</td>
+<td width="33%" valign="top">
 
-I'm also actively exploring **AI-driven automation systems** and ways to eliminate repetitive operational work through intelligent software.
+◈ Systems & Backend
 
----
+APIs, databases, architecture and reliable services.
 
-## Tech Stack
+Node.js · PostgreSQL · Prisma
 
-### Frontend
-`TypeScript` `JavaScript` `React` `Next.js` `React Native` `Tailwind CSS`
+</td>
+<td width="33%" valign="top">
 
-### Backend
-`Node.js` `REST APIs` `PostgreSQL` `Prisma`
+◈ AI & Automation
 
-### Infrastructure
-`Docker` `Linux` `Git` `GitHub` `Cloudflare` `CI/CD`
+Software that reduces repetitive operational work.
 
-### AI & Automation
-`LLM Integrations` `AI-Assisted Development` `Workflow Automation`
+LLM · Automation · Intelligent Workflows
 
----
+</td>
+</tr>
+</table>
 
-## Engineering Philosophy
+03 — CURRENTLY BUILDING
 
-> Understand the problem.  
-> Design the system.  
-> Build the solution.  
-> Automate what can be automated.
+<div align="center">
 
-I prefer simple systems that solve difficult problems over complicated systems that solve simple ones.
+<img src="https://img.shields.io/badge/EMEKTRA-07111F?style=for-the-badge&logoColor=white" alt="Emektra">
 
----
+Workforce Management Platform
 
-## Featured Project
+</div>
 
-### Emektra
+Emektra is a multi-platform workforce management product designed for businesses working with seasonal, daily and distributed workers.
 
-**Workforce Management SaaS**
+The goal is straightforward: make workforce operations easier to manage, automate and scale.
 
-A multi-platform SaaS product built to make workforce operations easier to manage.
+Core Areas
 
-**Web · Mobile · Desktop · Backend · PostgreSQL · Docker**
+Workforce
 
----
+Operations
 
-## Let's Connect
+Payments
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zafer-güneş)
+People & teams
 
-[![Website](https://img.shields.io/badge/Website-111827?style=flat-square&logo=google-chrome&logoColor=white)](https://zafergunes.com.tr)
+Attendance
 
-[![Email](https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white)](mailto:zaferguness82@gmail.com)
+Worker payments
 
----
+Worker records
 
-### Code. Automate. Optimize. Repeat.
+Daily operations
+
+Operational workflows
+
+Workforce organization
+
+Process tracking
+
+Management
+
+Platform
+
+                 EMEKTRA
+                    │
+       ┌────────────┼────────────┐
+       │            │            │
+      WEB          MOBILE      DESKTOP
+       │            │            │
+       └────────────┼────────────┘
+                    │
+                NODE.JS API
+                    │
+                POSTGRESQL
+                    │
+                 DOCKER
+
+I’m also exploring AI-driven automation systems for eliminating repetitive business processes through intelligent workflows.
+
+04 — TECH STACK
+
+<div align="center">
+
+Frontend
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind" />
+
+Backend & Data
+
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma" />
+
+Infrastructure & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,cloudflare" />
+
+AI & Automation
+
+LLM Integrations · AI-Assisted Development · Workflow Automation
+
+</div>
+
+05 — ENGINEERING PRINCIPLES
+
+<table>
+<tr>
+<td>01</td>
+<td><b>Understand before building.</b><br>Good software starts with the real problem, not the first implementation idea.</td>
+</tr>
+<tr>
+<td>02</td>
+<td><b>Prefer clarity over complexity.</b><br>Architecture should make systems easier to understand, change and operate.</td>
+</tr>
+<tr>
+<td>03</td>
+<td><b>Automate repetitive work.</b><br>If a process happens repeatedly, it is a candidate for better tooling.</td>
+</tr>
+<tr>
+<td>04</td>
+<td><b>Build for the next version.</b><br>Maintainability matters as much as getting the first version shipped.</td>
+</tr>
+<tr>
+<td>05</td>
+<td><b>Ship real software.</b><br>A solution has value when it survives production and solves the problem it was built for.</td>
+</tr>
+</table>
+
+06 — GITHUB
+
+<div align="center">
+
+<a href="https://github.com/zafergunes">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zafergunes&show_icons=true&hide_border=true&bg_color=00000000&title_color=22E6CF&icon_color=22E6CF&text_color=C9D6E4&rank_icon=github" />
+</a>
+
+<a href="https://github.com/zafergunes">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafergunes&layout=compact&hide_border=true&bg_color=00000000&title_color=22E6CF&text_color=C9D6E4" />
+</a>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=zafergunes&theme=transparent&hide_border=true&ring=22E6CF&fire=22E6CF&currStreakLabel=22E6CF&sideLabels=C9D6E4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" />
+
+</div>
+
+07 — LET'S CONNECT
+
+<div align="center">
+
+<a href="https://zafergunes.com.tr">
+<img src="https://img.shields.io/badge/Website-zafergunes.com.tr-07111F?style=for-the-badge&logo=googlechrome&logoColor=22E6CF" />
+</a>
+
+<a href="https://www.linkedin.com/in/zafer-güneş">
+<img src="https://img.shields.io/badge/LinkedIn-Zafer_Güneş-07111F?style=for-the-badge&logo=linkedin&logoColor=22E6CF" />
+</a>
+
+<a href="mailto:zaferguness82@gmail.com">
+<img src="https://img.shields.io/badge/Email-zaferguness82%40gmail.com-07111F?style=for-the-badge&logo=gmail&logoColor=22E6CF" />
+</a>
+
+<br/><br/>
+
+Code.   Automate.   Optimize.   Repeat.
+
+</div>
